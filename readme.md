@@ -12,7 +12,7 @@ O jogo utiliza a biblioteca [responsiveVoice](https://responsivevoice.org/) para
 
 ## Como Jogar
 
-1. Abra o arquivo `index.html` em um navegador da web.
+1. Abra a aplicação [gamersortednumber](https://game-numbersorted.vercel.app/) em um navegador da web.
 2. Escolha um número entre 1 e 10.
 3. Submeta o número e receba feedback sobre se é maior ou menor que o número secreto.
 4. Continue a adivinhar até acertar o número secreto.
